@@ -61,3 +61,6 @@ crashlytics-build.properties
 # Third party tools
 /[Aa]ssets/Opsive/
 [Aa]ssets/Opsive.meta
+/[Aa]ssets/PolygonStarter
+[Aa]ssets/PolygonStarter.meta
+.DS_Store
