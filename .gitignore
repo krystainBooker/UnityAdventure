@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Third party tools
+/[Aa]ssets/Opsive/
+[Aa]ssets/Opsive.meta
